@@ -3,7 +3,6 @@ An awesome list of free SaaS (software as a service) for you.
 
 <h1>Content</h1> 
   <ul>
-      <li><a href="">Design</a></li>
       <li><a href="">CRM</a></li>
       <li><a href="">HR & IT </a></li>
       <li><a href="">Video</a></li>
@@ -31,4 +30,9 @@ An awesome list of free SaaS (software as a service) for you.
     <br />
    <h1>Design</h1>
         <h1>CRM</h1>
-<ul><li><a href="https://www.hubspot.com/">Hubspot</a></li></ul>
+<ul>
+  <li><a href="https://www.hubspot.com/">Hubspot</a> - <p>Software that's powerful, not overpowering. Seamlessly connect your data, teams, and customers on one customer platform that grows with your business.</p></li>
+
+
+
+</ul>
