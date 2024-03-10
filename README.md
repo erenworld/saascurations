@@ -44,3 +44,15 @@ An awesome list of free SaaS (software as a service) for you.
   <li><a href="https://www.loom.com/">Loom</a> - Easily record and share AI-powered video messages with your teammates and customers to supercharge productivity</li>
 </ul>
 
+
+<h1>Content</h1>
+<ul>
+  <li><a href="https://www.sendshort.ai/">Sendshort</a> - Cut, edit, and schedule your posts. Upload long form or short video and create viral shorts powered by AI</li>
+</ul>
+
+<h1>Cloud</h1>
+<ul>
+  <li><a href="https://www.salesforce.com/fr/">Salesforce</a> - A company that makes cloud-based software designed to help businesses find more prospects,</li>
+</ul>
+
+
