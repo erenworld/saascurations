@@ -55,4 +55,11 @@ An awesome list of free SaaS (software as a service) for you.
   <li><a href="https://www.salesforce.com/fr/">Salesforce</a> - A company that makes cloud-based software designed to help businesses find more prospects,</li>
 </ul>
 
+<h1>AI</h1>
+<ul>
+  <li><a href="https://www.delphi.ai/">Delphi AI</a> - Build the digital version of you to scale
+your expertise and availability, infinitely</li>
+</ul>
+
+
 
