@@ -66,4 +66,8 @@ your expertise and availability, infinitely</li>
     <li><a href="https://www.duolingo.com/">Duolingo</a> - company that produces learning apps and provides language certification. </li>
 </ul>
 
+<h1>Discussion</h1>
+<ul>
+    <li><a href="https://www.beeper.com/">Beeper</a> - All your chats in one app. Yes, really. </li>
+</ul>
 
