@@ -61,5 +61,9 @@ An awesome list of free SaaS (software as a service) for you.
 your expertise and availability, infinitely</li>
 </ul>
 
+<h1>Learning</h1>
+<ul>
+    <li><a href="https://www.duolingo.com/">Duolingo</a> - company that produces learning apps and provides language certification. </li>
+</ul>
 
 
