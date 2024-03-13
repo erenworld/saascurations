@@ -25,6 +25,7 @@ An awesome list of free SaaS (software as a service) for you.
       <li><a href="">CMS </a></li>
       <li><a href="">Biotech</a></li>
       <li><a href="">E-commerce</a></li>
+      <li><a href="">Automation</a></li>
       <li><a href="">Crime</a></li>
     </ul>
     <br />
@@ -37,6 +38,8 @@ An awesome list of free SaaS (software as a service) for you.
 <h1>HR & IT</h1>
 <ul>
   <li><a href="https://www.skello.io/">Skello</a> - The HR solution for planning daily life and team success.</li>
+    <li><a href="https://www.deel.com/fr/">Deel</a> - Get our all-in-one Global People Platform that simplifies the way you onboard, offboard, and everything else in between.</li>
+
 </ul>
 
 <h1>Video</h1>
@@ -70,4 +73,22 @@ your expertise and availability, infinitely</li>
 <ul>
     <li><a href="https://www.beeper.com/">Beeper</a> - All your chats in one app. Yes, really. </li>
 </ul>
+
+
+<h1>Automation</h1>
+<ul>
+    <li><a href="https://zapier.com/">Zapier</a> - Use Zapier to tame the chaos with automation and accomplish more with less work. </li>
+</ul>
+
+  <h1>Finance</h1>
+<ul>
+    <li><a href="https://www.brex.com/">Brex</a> - Spend smarter with integrated cards, expenses, travel, and payments — in 100+ countries. </li>
+</ul>
+
+ <h1>Services</h1>
+<ul>
+    <li><a href="https://www.instacart.com/">Instacart</a> - Whatever you want from local stores, brought right to your door. </li>
+</ul>
+
+
 
