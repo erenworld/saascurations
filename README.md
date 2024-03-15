@@ -45,7 +45,12 @@ An awesome list of free SaaS (software as a service) for you.
 <h1>Video</h1>
 <ul>
   <li><a href="https://www.loom.com/">Loom</a> - Easily record and share AI-powered video messages with your teammates and customers to supercharge productivity</li>
+    <li><a href="https://www.claap.io/">Claap</a> - Record meetings with AI-powered notes, send short followup videos, and centralize best practices in one video library.</li>
+
 </ul>
+
+
+
 
 
 <h1>Content</h1>
