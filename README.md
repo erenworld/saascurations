@@ -88,6 +88,8 @@ your expertise and availability, infinitely</li>
   <h1>Finance</h1>
 <ul>
     <li><a href="https://www.brex.com/">Brex</a> - Spend smarter with integrated cards, expenses, travel, and payments — in 100+ countries. </li>
+      <li><a href="https://stripe.com/fr">Stripe</a> - Millions of companies of all sizes use Stripe online and in person to accept payments, send payouts, automate financial processes, and ultimately grow revenue. </li>
+
 </ul>
 
  <h1>Services</h1>
