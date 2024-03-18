@@ -35,11 +35,12 @@ An awesome list of free SaaS (software as a service) for you.
   <li><a href="https://www.hubspot.com/">Hubspot</a> - Software that's powerful, not overpowering. Seamlessly connect your data, teams, and customers on one customer platform that grows with your business.</li>
 </ul>
 
-<h1>HR & IT</h1>
+<h1>HR</h1>
 <ul>
   <li><a href="https://www.skello.io/">Skello</a> - The HR solution for planning daily life and team success.</li>
     <li><a href="https://www.deel.com/fr/">Deel</a> - Get our all-in-one Global People Platform that simplifies the way you onboard, offboard, and everything else in between.</li>
-
+    <li><a href="https://www.rippling.com/">Rippling</a> - Rippling is the world's first system of record for workforce data — allowing you to manage employees' payroll, benefits, devices, apps, and more, all in one platform.</li>
+  
 </ul>
 
 <h1>Video</h1>
@@ -49,10 +50,6 @@ An awesome list of free SaaS (software as a service) for you.
 
 </ul>
 
-
-
-
-
 <h1>Content</h1>
 <ul>
   <li><a href="https://www.sendshort.ai/">Sendshort</a> - Cut, edit, and schedule your posts. Upload long form or short video and create viral shorts powered by AI</li>
@@ -60,8 +57,15 @@ An awesome list of free SaaS (software as a service) for you.
 
 <h1>Cloud</h1>
 <ul>
-  <li><a href="https://www.salesforce.com/fr/">Salesforce</a> - A company that makes cloud-based software designed to help businesses find more prospects,</li>
+  <li><a href="https://www.salesforce.com/fr/">Salesforce</a> - A company that makes cloud-based software designed to help businesses find more prospects.</li>
 </ul>
+
+<h1>Cloud</h1>
+<ul>
+  <li><a href="https://scale.com/">Scale</a> - Make the best models with the best data. Scale Data Engine leverages your enterprise data, and with Scale GenAI Platform, safely unlocks the value of AI.</li>
+</ul>
+
+
 
 <h1>AI</h1>
 <ul>
@@ -89,6 +93,8 @@ your expertise and availability, infinitely</li>
 <ul>
     <li><a href="https://www.brex.com/">Brex</a> - Spend smarter with integrated cards, expenses, travel, and payments — in 100+ countries. </li>
       <li><a href="https://stripe.com/fr">Stripe</a> - Millions of companies of all sizes use Stripe online and in person to accept payments, send payouts, automate financial processes, and ultimately grow revenue. </li>
+      <li><a href="https://ramp.com/">Stripe</a> - Ramp is the only corporate card that automates accounting, lowers your bills, and earns 1.5% cashback.
+ </li>
 
 </ul>
 
