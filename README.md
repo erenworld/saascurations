@@ -3,7 +3,6 @@ An awesome list of free SaaS (software as a service) for you.
 
 <h1>Content</h1> 
   <ul>
-      <li><a href="">Aggregation Theory</a></li>
       <li><a href="">CRM</a></li>
       <li><a href="">HR & IT </a></li>
       <li><a href="">Video</a></li>
@@ -31,11 +30,7 @@ An awesome list of free SaaS (software as a service) for you.
     </ul>
     <br />
 
-<h1>Aggregation Theory</h1>
-  <p>Aggregation Theory is a completely new way to understand business in the Internet age. Business schools suggest that with the right frameworks, an executive can understand how to manage all kinds of problems: what happens, though, when many of the inputs to those frameworks are zero?</p>
 
-
-       
 <h1>CRM</h1>
 <ul>
   <li><a href="https://www.hubspot.com/">Hubspot</a> - Software that's powerful, not overpowering. Seamlessly connect your data, teams, and customers on one customer platform that grows with your business.</li>
