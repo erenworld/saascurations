@@ -3,6 +3,7 @@ An awesome list of free SaaS (software as a service) for you.
 
 <h1>Content</h1> 
   <ul>
+      <li><a href="">Aggregation Theory</a></li>
       <li><a href="">CRM</a></li>
       <li><a href="">HR & IT </a></li>
       <li><a href="">Video</a></li>
@@ -29,6 +30,12 @@ An awesome list of free SaaS (software as a service) for you.
       <li><a href="">Crime</a></li>
     </ul>
     <br />
+
+<h1>Aggregation Theory</h1>
+<ul>
+  <li><a href="https://stratechery.com/aggregation-theory/">Aggregation Theory</a></li>
+</ul>
+
        
 <h1>CRM</h1>
 <ul>
