@@ -32,9 +32,8 @@ An awesome list of free SaaS (software as a service) for you.
     <br />
 
 <h1>Aggregation Theory</h1>
-<ul>
-  <li><a href="https://stratechery.com/aggregation-theory/">Aggregation Theory</a></li>
-</ul>
+  <p>Aggregation Theory is a completely new way to understand business in the Internet age. Business schools suggest that with the right frameworks, an executive can understand how to manage all kinds of problems: what happens, though, when many of the inputs to those frameworks are zero?</p>
+
 
        
 <h1>CRM</h1>
