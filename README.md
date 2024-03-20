@@ -82,6 +82,9 @@ your expertise and availability, infinitely</li>
 <h1>Discussion</h1>
 <ul>
     <li><a href="https://www.beeper.com/">Beeper</a> - All your chats in one app. Yes, really. </li>
+    <li><a href="https://www.skool.com/">Skool</a> - You can discover communities or create your own. Some are free, some paid. People earn full-time incomes building on Skool. </li>
+
+  
 </ul>
 
 
