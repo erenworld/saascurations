@@ -3,6 +3,7 @@ An awesome list of free SaaS (software as a service) for you.
 
 <h1>Content</h1> 
   <ul>
+      <li><a href="">Platform</a></li>
       <li><a href="">CRM</a></li>
       <li><a href="">HR & IT </a></li>
       <li><a href="">Video</a></li>
@@ -30,6 +31,11 @@ An awesome list of free SaaS (software as a service) for you.
     </ul>
     <br />
 
+
+<h1>Platform</h1>
+<ul>
+  <li><a href="https://www.airbnb.com/">Airbnb</a> - A web platform where users can rent out their space to host travelers to: save money when traveling, make money when hosting, share culture local connection to the city</li>
+</ul>
 
 <h1>CRM</h1>
 <ul>
