@@ -117,6 +117,8 @@ your expertise and availability, infinitely</li>
  <h1>Services</h1>
 <ul>
     <li><a href="https://www.instacart.com/">Instacart</a> - Whatever you want from local stores, brought right to your door. </li>
+      <li><a href="https://uber.com/">Uber</a> - Whatever you want from local stores, brought right to your door. </li>
+
 </ul>
 
 
