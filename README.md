@@ -28,9 +28,9 @@ An awesome list of free SaaS (software as a service) for you.
       <li><a href="">E-commerce</a></li>
       <li><a href="">Automation</a></li>
       <li><a href="">Crime</a></li>
+          <li><a href="">Mental</a></li>
     </ul>
     <br />
-
 
 <h1>Platform</h1>
 <ul>
@@ -77,6 +77,12 @@ An awesome list of free SaaS (software as a service) for you.
 <ul>
   <li><a href="https://scale.com/">Scale</a> - Make the best models with the best data. Scale Data Engine leverages your enterprise data, and with Scale GenAI Platform, safely unlocks the value of AI.</li>
 </ul>
+
+<h1>Mental</h1>
+<ul>
+  <li><a href="https://www.wave.ai/">Wave</a> - The only professional coaching app · Overcome any problem at work · Overcome any problem at work.</li>
+</ul>
+
 
 
 
