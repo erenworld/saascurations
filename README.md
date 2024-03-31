@@ -47,7 +47,11 @@ An awesome list of free SaaS (software as a service) for you.
   <li><a href="https://www.skello.io/">Skello</a> - The HR solution for planning daily life and team success.</li>
     <li><a href="https://www.deel.com/fr/">Deel</a> - Get our all-in-one Global People Platform that simplifies the way you onboard, offboard, and everything else in between.</li>
     <li><a href="https://www.rippling.com/">Rippling</a> - Rippling is the world's first system of record for workforce data — allowing you to manage employees' payroll, benefits, devices, apps, and more, all in one platform.</li>
+     <li><a href="https://www.rippling.com/">Rippling</a> - Rippling is the world's first system of record for workforce data — allowing you to manage employees' payroll, benefits, devices, apps, and more, all in one platform.</li>
   
+https://namely.com
+
+
 </ul>
 
 <h1>Marketing</h1>
