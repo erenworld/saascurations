@@ -121,9 +121,10 @@ your expertise and availability, infinitely</li>
 <ul>
     <li><a href="https://www.brex.com/">Brex</a> - Spend smarter with integrated cards, expenses, travel, and payments — in 100+ countries. </li>
       <li><a href="https://stripe.com/fr">Stripe</a> - Millions of companies of all sizes use Stripe online and in person to accept payments, send payouts, automate financial processes, and ultimately grow revenue. </li>
-      <li><a href="https://ramp.com/">Stripe</a> - Ramp is the only corporate card that automates accounting, lowers your bills, and earns 1.5% cashback.
+      <li><a href="https://ramp.com/">Ramp</a> - Ramp is the only corporate card that automates accounting, lowers your bills, and earns 1.5% cashback.
  </li>
-
+  <li><a href="https://ramp.com/">Cred</a> - Cred is the only corporate card that automates accounting, lowers your bills, and earns 1.5% cashback.
+ </li>
 </ul>
 
  <h1>Services</h1>
