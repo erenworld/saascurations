@@ -85,7 +85,7 @@ An awesome list of free SaaS (software as a service) for you.
 
 <h1>Mental</h1>
 <ul>
-  <li><a href="https://www.wave.ai/">Wave</a> - The only professional coaching app · Overcome any problem at work · Overcome any problem at work.</li>
+  <li><a href="https://www.wave.ai/">Wavee</a> - The only professional coaching app · Overcome any problem at work · Overcome any problem at work.</li>
 </ul>
 
 
@@ -93,7 +93,7 @@ An awesome list of free SaaS (software as a service) for you.
 
 <h1>AI</h1>
 <ul>
-  <li><a href="https://www.delphi.ai/">Delphi AI</a> - Build the digital version of you to scale
+  <li><a href="https://www.delphi.ai/">Delphi </a> - Build the digital version of you to scale
 your expertise and availability, infinitely</li>
 </ul>
 
