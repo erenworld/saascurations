@@ -70,6 +70,9 @@ An awesome list of free SaaS (software as a service) for you.
 
 <h1>Content</h1>
 <ul>
+  https://listenly.io/
+  <li><a href="https://www.listenly.io/">Listenly</a> - Listenly allows you to create natural-sounding audio for any book, document, or website,
+using the best-in-industry AI voices.</li>
   <li><a href="https://www.sendshort.ai/">Sendshort</a> - Cut, edit, and schedule your posts. Upload long form or short video and create viral shorts powered by AI</li>
 </ul>
 
