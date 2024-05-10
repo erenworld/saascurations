@@ -118,6 +118,8 @@ your expertise and availability, infinitely</li>
 <h1>Automation</h1>
 <ul>
     <li><a href="https://zapier.com/">Zapier</a> - Use Zapier to tame the chaos with automation and accomplish more with less work. </li>
+      <li><a href="https://linear/">Linear</a> - Meet the new standard for modern software development. Streamline issues, sprints, and product roadmaps. </li>
+
 </ul>
 
   <h1>Finance</h1>
